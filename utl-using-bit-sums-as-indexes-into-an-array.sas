@@ -3,6 +3,9 @@ Using bit sums as indexes into an array
 Same problem restructured
 https://stackoverflow.com/questions/56121578/recoding-multi-dimensional-array-variables-in-sas
 
+github
+https://github.com/rogerjdeangelis/utl-using-bit-sums-as-indexes-into-an-array
+
 The blshift function in the SAS Forum just multiplies by 2.
 
 *_                   _
