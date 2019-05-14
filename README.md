@@ -1,6 +1,10 @@
 # utl-using-bit-sums-as-indexes-into-an-array
 Using bit sums as indexes into an array
     Using bit sums as indexes into an array
+    
+    github
+    https://github.com/rogerjdeangelis/utl-using-bit-sums-as-indexes-into-an-array
+
 
     Same problem restructured
     https://stackoverflow.com/questions/56121578/recoding-multi-dimensional-array-variables-in-sas
